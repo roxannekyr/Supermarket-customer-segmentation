@@ -59,5 +59,4 @@ Three models were built and evaluated side by side (k=4, k=5, k=6):
 ## What I'd Improve With More Time
 
 - Test HDBSCAN for non-spherical cluster validation
-- Add a spend-uplift simulation to estimate revenue impact of targeting each cluster
 - Build a simple Streamlit dashboard for the marketing team to explore segments interactively
