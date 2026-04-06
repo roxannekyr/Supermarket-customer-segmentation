@@ -1,4 +1,4 @@
-# Supermarket Customer Segmentation with KMeans Clustering
+# Supermarket Customer Segmentation
 
 Identifying high-value customer groups to power targeted marketing campaigns using unsupervised machine learning.
 
@@ -23,7 +23,7 @@ This project segments customers into distinct groups based on spending behaviour
 
 1. Exploratory Data Analysis
 - Full automated EDA function covering shape, dtypes, nulls, duplicates, value counts, and summary statistics
-- Correlation heatmap + pairplot revealed spherical cluster structure → justified KMeans as the right algorithm
+- Correlation heatmap and pairplot revealed spherical cluster structure that justified KMeans as the right algorithm being used
 - Age shows a -0.33 correlation with Spending Score (younger customers spend more); Gender correlation was negligible (-0.06)
 
 2. Preprocessing
@@ -33,7 +33,7 @@ This project segments customers into distinct groups based on spending behaviour
 
 3. Feature Selection
 - Features used: `Annual_Income`, `Spending_Score`, `Age`
-- Gender excluded — correlation analysis showed it had minimal predictive value for segmentation
+- Gender excluded as correlation analysis showed it had minimal predictive value for segmentation
 
 4. Finding Optimal k
 Two complementary methods were applied and compared:
