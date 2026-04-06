@@ -41,8 +41,6 @@ Two complementary methods were applied and compared:
 - **Elbow Method** → suggested k=4 or k=6 as inflection points
 - **Silhouette Score** (tested up to k=15) → k=4 returned the highest score (~0.44), confirming cluster cohesion
 
-> Both methods were run as modular, reusable functions rather than inline code.
-
 5. Model Comparison
 Three models were built and evaluated side by side (k=4, k=5, k=6):
 
