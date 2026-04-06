@@ -8,7 +8,7 @@ A supermarket collects basic customer data through membership cards. The marketi
 
 This project segments customers into distinct groups based on spending behaviour, income, and age, and hands off **actionable cluster profiles** directly usable for campaign planning.
 
-## 🎯 Key Outcomes
+## Insights
 
 | Cluster | Profile | Avg Spending Score | Avg Income | Count |
 |---|---|---|---|---|
