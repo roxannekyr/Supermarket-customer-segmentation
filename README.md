@@ -56,6 +56,3 @@ Three models were built and evaluated side by side (k=4, k=5, k=6):
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
----
-
-## 📁 Repository Structure
